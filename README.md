@@ -22,7 +22,7 @@ For usage see the [documentation](https://saleksovski.github.io/react-native-and
 
 ## Demo
 
-https://github.com/sAleksovski/react-native-android-widget/assets/7473800/68a0afc7-27a1-4d27-bcdd-4f15f4894313
+https://github.com/user-attachments/assets/3bd8ab3f-7bde-4176-a7a5-b1b296fa041d
 
 You can also download the demo app from the [Releases](https://github.com/sAleksovski/react-native-android-widget/releases) page.
 
